@@ -76,7 +76,7 @@
     "typescript": "^5.2.2"
   },
   "peerDependencies": {
-    "astro": "^5.0.0",
+    "astro": "<6.0.0",
     "kleur": "^4.1.4"
   }
 }
